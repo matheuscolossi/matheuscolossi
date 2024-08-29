@@ -12,7 +12,7 @@
 </p>
 
 <p align="center"><samp>
-Check out my repos ⬇️  
+Check my social medias 👆
   </samp>
 </p>
 
