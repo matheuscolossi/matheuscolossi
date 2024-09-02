@@ -17,8 +17,9 @@
 
 ✨ **[Local Services Marketplace Based on Geolocation](#)**: I am developing a marketplace app that allows users to find local services, like plumbers and electricians, based on their location. The app includes features such as user reviews, service history, real-time chat, and an integrated payment system. Additionally, it offers automatic scheduling and location-based notifications to enhance user experience. The app is built with Flutter, Firebase, Google Maps API, and Stripe API to ensure a seamless and efficient service discovery and booking process.
 
-💻 **[Project Name](#)**: A brief description of the project.  
-🚀 **[Project Name](#)**: A brief description of the project.
+💻 **[New projects coming soon](#)**: ...
+
+🚀 **[New projects coming soon](#)**: ...
 
 ---
 
