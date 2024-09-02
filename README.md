@@ -1,39 +1,60 @@
-### Hi there! 👋
+<h1 align="center">Hi there, I'm Matheus Colossi 👋</h1>
 
-I'm Matheus Lopes Colossi, a passionate developer and open source enthusiast with a knack for creating innovative solutions. I'm always on the lookout for exciting new projects and opportunities to learn and grow.
----
-
-### 📌 Pinned Projects
-
-- **[Project Name](#)**: A brief description of the project. (Language)
-- **[Project Name](#)**: A brief description of the project. (Language)
-- **[Project Name](#)**: A brief description of the project. (Language)
-
-### 📫 How to Reach Me
-
-- 🌍 Location: [Brasil, Erechim RS]
-- 🌐 [yourwebsite.com](#)
-- 🐦 [Twitter](#)
-- 📧 [Email](#)
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social"></a>
+</p>
 
 ---
 
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula" alt="GitHub Streak" />
+</p>
 
-### 🏆 Achievements
+---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&column=7)
+## 📌 Pinned Projects
 
-### 📊 GitHub Stats
+✨ **[Local Services Marketplace Based on Geolocation](#)**: I am developing a marketplace app that allows users to find local services, like plumbers and electricians, based on their location. The app includes features such as user reviews, service history, real-time chat, and an integrated payment system. Additionally, it offers automatic scheduling and location-based notifications to enhance user experience. The app is built with Flutter, Firebase, Google Maps API, and Stripe API to ensure a seamless and efficient service discovery and booking process.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+💻 **[Project Name](#)**: A brief description of the project.  
+🚀 **[Project Name](#)**: A brief description of the project.
 
-### 🌱 What I’m Currently Working On
+---
 
-- Project 1
-- Project 2
-- Project 3
+## 📫 How to Reach Me
 
-### 🚀 About Me
+- 🌍 **Location**: [Your City]
+- 🌐 **Website**: [yourwebsite.com](#)
+- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)
 
-Add a bit more about yourself, your passions, and your experiences here.
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌱 What I’m Currently Working On
+
+- 🎯 **Project 1**: Short description.
+- 💡 **Project 2**: Short description.
+- 🚧 **Project 3**: Short description.
+
+---
+
+## 🚀 About Me
+
+I’m a passionate developer with a love for open source, always exploring new technologies and challenges. My goal is to make a positive impact through code and community.
+
+Feel free to reach out if you'd like to collaborate or just have a chat!
