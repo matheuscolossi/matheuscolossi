@@ -1,64 +1,76 @@
-<h1 align="center">Hi there, I'm Matheus Colossi 👋</h1>
+# Hello, I'm Matheus Lopes Colosi! 👋
 
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social"></a>
-<img src="chrome://fileicon/?path=C%3A%5CUsers%5Cmatheus.colossi%5CPictures%5Ccraiyon_075306_gandalf_dwarf_in_light_blue_and_orange_robes.png&scale=1x />
-</p>
+### 💻 Full Stack Developer | 🎨 Frontend Enthusiast | 🔐 Backend Lover
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula" alt="GitHub Streak" />
-</p>
+### 📚 About Me
+
+I'm a developer passionate about creating innovative solutions with technology. I have experience in various areas of development, including:
+
+- **Frontend**: HTML5, CSS3/SCSS, JavaScript/TypeScript, React
+- **Backend**: PHP, Node.js, Java, C#, MySQL
+- **Tools and Cloud**: Git, Docker, Google Cloud Platform (GCP), Firebase
+
+I'm always eager to learn new technologies and improve my skills. When I'm not coding, I like to explore the world of technology and contribute to open-source projects.
 
 ---
 
-## 📌 Pinned Projects
+### 🌱 Currently Learning
 
-✨ **[New projects coming soon](#)**: ...
-
-💻 **[New projects coming soon](#)**: ...
-
-🚀 **[New projects coming soon](#)**: ...
+- Docker and its integration with **development environments**
+- Architectures on **Google Cloud Platform**
+- Best practices in **Git Flow** and collaboration in open-source projects
 
 ---
 
-## 📫 How to Reach Me
+### 🚀 Some of My Projects
 
-- 🌍 **Location**: [Your City]
-- 🌐 **Website**: [yourwebsite.com](#)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&column=7" alt="Trophies" />
-</p>
+1. **[Project Name 1](https://github.com/yourprofile/project1)** - Brief description of what it does and the technology used
+2. **[Project Name 2](https://github.com/yourprofile/project2)** - A small description about the project
+3. **[Project Name 3](https://github.com/yourprofile/project3)** - Another interesting project you'd like to highlight
 
 ---
 
-## 📊 GitHub Stats
+### 📫 How to Reach Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
----
-
-## 🌱 What I’m Currently Working On
-
-- 🎯 **Project 1**: Local Services Marketplace Based on Geolocation: I am developing a marketplace app that allows users to find local services, like plumbers and electricians, based on their location. The app includes features such as user reviews, service history, real-time chat, and an integrated payment system. Additionally, it offers automatic scheduling and location-based notifications to enhance user experience. The app is built with Flutter, Firebase, Google Maps API, and Stripe API to ensure a seamless and efficient service discovery and booking process.
-- 
-- 💡 **Project 2**: Short description.
-- 
-- 🚧 **Project 3**: Short description.
+- **GitHub**: [github.com/yourprofile](https://github.com/matheuscolossi)
+- **LinkedIn**: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/matheus-colossi-a13b7616b/)
+- **Email**: mlc170606@gmail.com
 
 ---
 
-## 🚀 About Me
+### ⚡ Fun Facts
 
-I’m a passionate developer with a love for open source, always exploring new technologies and challenges. My goal is to make a positive impact through code and community.
+- 💡 I'm a big fan of collaborative programming and open-source.
+- 🎨 I love design and frequently explore new UI/UX trends.
+- 🌍 I'm interested in working on global and remote projects.
 
-Feel free to reach out if you'd like to collaborate or just have a chat!
+---
+
+### 🛠️ Languages and Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+
+
+---
+
+### 📈 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
+
+---
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=radical)
