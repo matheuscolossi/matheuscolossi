@@ -26,10 +26,9 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 
 ### 🚀 Some of My Projects
 
-1. **[Project Name 1](https://github.com/yourprofile/project1)** - Brief description of what it does and the technology used
-2. **[Project Name 2](https://github.com/yourprofile/project2)** - A small description about the project
-3. **[Project Name 3](https://github.com/yourprofile/project3)** - Another interesting project you'd like to highlight
-
+1. **in development
+2. **in development
+3. **in development
 ---
 
 ### 📫 How to Reach Me
