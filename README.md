@@ -34,8 +34,8 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 
 ### 📫 How to Reach Me
 
-- **GitHub**: [github.com/yourprofile](https://github.com/matheuscolossi)
-- **LinkedIn**: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/matheus-colossi-a13b7616b/)
+- **GitHub**: https://github.com/matheuscolossi
+- **LinkedIn**: https://www.linkedin.com/in/matheus-colossi-a13b7616b/
 - **Email**: mlc170606@gmail.com
 
 ---
