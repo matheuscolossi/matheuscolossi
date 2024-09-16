@@ -9,7 +9,7 @@
 I'm a developer passionate about creating innovative solutions with technology. I have experience in various areas of development, including:
 
 - **Frontend**: HTML5, CSS3/SCSS, JavaScript/TypeScript, React
-- **Backend**: PHP, Node.js, Java, C#, MySQL
+- **Backend**: Python, PHP, Node.js, Java, C#, MySQL
 - **Tools and Cloud**: Git, Docker, Google Cloud Platform (GCP), Firebase
 
 I'm always eager to learn new technologies and improve my skills. When I'm not coding, I like to explore the world of technology and contribute to open-source projects.
