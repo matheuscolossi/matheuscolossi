@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social"></a>
+<img src="chrome://fileicon/?path=C%3A%5CUsers%5Cmatheus.colossi%5CPictures%5Ccraiyon_075306_gandalf_dwarf_in_light_blue_and_orange_robes.png&scale=1x />
 </p>
 
 ---
