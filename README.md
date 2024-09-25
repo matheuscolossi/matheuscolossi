@@ -94,10 +94,10 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 
 ### 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourprofile&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscolossi&show_icons=true&theme=radical)
 
 ---
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprofile&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscolossi&layout=compact&theme=radical)
