@@ -68,8 +68,6 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 ### ⚡ Fun Facts
 
 - 💡 I'm a big fan of collaborative programming and open-source.
-- 🎨 I love design and frequently explore new UI/UX trends.
-- 🌍 I'm interested in working on global and remote projects.
 
 ---
 
