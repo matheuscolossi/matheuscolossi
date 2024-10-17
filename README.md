@@ -25,9 +25,9 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 
 ### 🚀 Some of My Projects
 
-1. **in development
-2. **in development
-3. **in development
+1. Personal Portfolio
+2. Clone of a Popular Interface
+
 ---
 
 ### 📫 How to Reach Me
