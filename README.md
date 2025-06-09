@@ -27,9 +27,7 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 
 1. Personal Portfolio
 2. Clone of a Popular Interface
-3. I developed GearTrack, a desktop store management app for dealing with inventory, suppliers, purchasing and sales.
-3.1 -Front-end: C# + Windows Forms + DataGridViews, ComboBoxes, TabControl, PictureBox.
-3.2 -Back-end: SQL Server + ADO.NET + Repository Pattern + Transações.
+3. I developed GearTrack, a desktop store management app for dealing with inventory, suppliers, purchasing and sales.---Front-end: C# + Windows Forms + DataGridViews, ComboBoxes, TabControl, PictureBox.---Back-end: SQL Server + ADO.NET + Repository Pattern + Transações.
 
    
 
