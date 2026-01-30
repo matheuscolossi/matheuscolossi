@@ -1,7 +1,7 @@
 # 🧙‍♂️☕ Hello, I'm Matheus Lopes Colossi! ☕🧙‍♂️
 
 
-### 💻 Frontend Enthusiast 
+### 💻 Backend Enthusiast 
 
 ---
 
@@ -10,6 +10,7 @@
 I'm a developer passionate about creating innovative solutions with technology. I have experience in various areas of development, including:
 
 - **Frontend**: HTML5, CSS3/SCSS, JavaScript/TypeScript
+- **Backend**: Java
 
 I'm always eager to learn new technologies and improve my skills. When I'm not coding, I like to explore the world of technology and contribute to open-source projects.
 
@@ -56,7 +57,6 @@ I'm always eager to learn new technologies and improve my skills. When I'm not c
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 
