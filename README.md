@@ -116,6 +116,21 @@ focus:    Clean code · Scalable systems · Open source
 
 ---
 
+
+---
+
+### 💹 InvestFácil — Investment Management Platform
+> Web platform for personal investment management with wealth dashboard, asset portfolio tracking, compound interest simulator, dividend calendar and risk analysis.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | TypeScript · HTML5 · CSS3 |
+| **Features** | Wealth dashboard · Asset portfolio · Compound interest simulator · Dividend calendar · Risk analysis |
+
+🔗 [github.com/matheuscolossi/InvestFacil](https://github.com/matheuscolossi/InvestFacil)
+
+---
+
 ### 🌐 Personal Portfolio
 > Showcasing my work, skills, and journey as a developer.
 
