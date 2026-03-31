@@ -85,7 +85,7 @@ focus:    Clean code · Scalable systems · Open source
 | **Features** | Step-by-step execution · Registers viewer · Execution log · Sample programs |
 
 - 🎓 Developed at URI — Câmpus Erechim (2025)
-- 👥 Team: Pedro Montemesso, Gabriel Javornik, Lucas Stacke, Johny Bolis
+
 
 ---
 
@@ -99,8 +99,7 @@ focus:    Clean code · Scalable systems · Open source
 | **Database** | SQLite · Relational modeling |
 | **Features** | Smart search · Category & price filters · Side cart · Admin panel · WhatsApp checkout |
 
-- 🎓 Developed at URI — Câmpus Erechim (2026)
-- 👥 Team: Gabriel Javornik, Lucas Stracke
+
 
 ---
 
