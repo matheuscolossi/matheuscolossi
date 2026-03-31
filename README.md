@@ -75,10 +75,50 @@ focus:    Clean code · Scalable systems · Open source
 
 ---
 
+### 🧠 MARIE CPU Simulator — Educational 8-bit CPU Simulator
+> Academic project built in Java that simulates a MARIE architecture CPU with full fetch–decode–execute cycle visualization.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Core** | Java · Swing (GUI) |
+| **Architecture** | MARIE (von Neumann model) · 256-word memory |
+| **Features** | Step-by-step execution · Registers viewer · Execution log · Sample programs |
+
+- 🎓 Developed at URI — Câmpus Erechim (2025)
+- 👥 Team: Pedro Montemesso, Gabriel Javornik, Lucas Stacke, Johny Bolis
+
+---
+
+### ⚽ Fanáticos FC — Football Shirt E-commerce
+> Full-stack web system for managing and selling football shirts, with admin panel, dynamic cart and WhatsApp checkout.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | HTML5 · CSS3 · Vanilla JavaScript (SPA) |
+| **Backend** | Node.js · RESTful API · JSON |
+| **Database** | SQLite · Relational modeling |
+| **Features** | Smart search · Category & price filters · Side cart · Admin panel · WhatsApp checkout |
+
+- 🎓 Developed at URI — Câmpus Erechim (2026)
+- 👥 Team: Gabriel Javornik, Lucas Stracke
+
+---
+
+### 📊 Dashboard Financeiro — Personal Finance Manager
+> Personal finance dashboard with income/expense tracking, interactive charts and persistent data between sessions.
+
+| Layer | Technologies |
+|-------|-------------|
+| **Frontend** | React · JavaScript · CSS3 |
+| **Charts** | Annual area chart (evolution) · Category pie chart |
+| **Features** | Income & expense entries · Category filters · Month/year filter · Edit & delete · Persistent data (localStorage) |
+
+🔗 [github.com/matheuscolossi/dashboard-financeira](https://github.com/matheuscolossi/dashboard-financeira)
+
+---
+
 ### 🌐 Personal Portfolio
 > Showcasing my work, skills, and journey as a developer.
-> www.matheuscolossi.com.br
-
 
 ---
 
