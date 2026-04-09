@@ -1,18 +1,17 @@
 <div align="center">
 
 ```
-███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗   ██╗███████╗
-████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║   ██║██╔════╝
-██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ██║███████╗
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
+                                                                      ███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗   ██╗███████╗
+                                                                      ████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║   ██║██╔════╝
+                                                                      ██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ██║███████╗
+                                                                      ██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║
+                                                                      ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║
+                                                                      ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
 # Matheus Lopes Colossi
 
-### `< Backend Enthusiast />` · `{ Full Stack Developer }` · `[ Open Source Contributor ]`
-
+### `< Backend Enthusiast />` ·
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-colossi-a13b7016b/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscolossi)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlc179609@gmail.com)
@@ -21,7 +20,7 @@
 
 ---
 
-## `tech.stack`
+## `Tech stack`
 
 <div align="center">
 
