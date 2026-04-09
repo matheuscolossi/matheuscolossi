@@ -21,20 +21,6 @@
 
 ---
 
-## `whoami`
-
-```yaml
-name:     Matheus Lopes Colossi
-role:     Backend Enthusiast & Full Stack Developer
-location: Brazil 🇧🇷
-status:   Always building something new
-focus:    Clean code · Scalable systems · Open source
-```
-
-> Passionate about crafting innovative solutions. When I'm not coding, I'm exploring the world of technology and contributing to open-source projects.
-
----
-
 ## `tech.stack`
 
 <div align="center">
@@ -132,59 +118,9 @@ focus:    Clean code · Scalable systems · Open source
 ---
 
 ### 🌐 Personal Portfolio
-> Showcasing my work, skills, and journey as a developer.
+> www.matheuscolossi.com.br
 
 ---
 
-### 🖥️ Clone of a Popular Interface
-> Hands-on practice recreating real-world UI to sharpen frontend skills.
-
----
-
-## `currently_learning`
-
-```bash
-$ docker run --rm learning-environment \
-    --topic "Docker & Container Orchestration" \
-    --topic "Google Cloud Platform Architecture" \
-    --topic "Git Flow & Open Source Collaboration"
-```
-
----
-
-## `github.stats`
-
-<div align="center">
-
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuscolossi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscolossi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=matheuscolossi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9)
-
-</div>
-
----
-
-## `fun_facts`
-
-```javascript
-const matheus = {
-  passions:       ["open-source", "collaborative programming", "clean architecture"],
-  currentGoal:    "Master cloud-native development",
-  funFact:        "Big fan of collaborative programming — two minds debug faster than one 🧠",
-  lifePhilosophy: "Code it, ship it, improve it."
-};
-```
-
----
-
-<div align="center">
-
-### Let's connect and build something great together! 🚀
-
-*"Always eager to learn new technologies and improve my skills."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=matheuscolossi&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
