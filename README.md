@@ -2,11 +2,12 @@
 
 # Olá, eu sou o Matheus
 
-### Web Development
+###Desenvolvedor Web | Front-end & Back-end
 
-Sou profissional da área de **Tecnologia da Informação**, com foco em desenvolvimento de software, programação e construção de soluções web modernas. Tenho interesse em **front-end, back-end, APIs, bancos de dados** e no uso da tecnologia para resolver problemas reais.
+Sou da área de **Tecnologia da Informação** com foco em **desenvolvimento web**, criando aplicações modernas de ponta a ponta — do front-end ao back-end. Gosto de transformar ideias em produtos funcionais, com código limpo e boas práticas de mercado.
 
-Busco evoluir continuamente como desenvolvedor, criando projetos bem estruturados, aprendendo boas práticas de mercado e construindo um portfólio sólido para atuar em ambientes profissionais de tecnologia.
+Busco evoluir continuamente como desenvolvedor, construindo projetos bem estruturados, escaláveis e com foco em usabilidade.
+
 
 </div>
 
