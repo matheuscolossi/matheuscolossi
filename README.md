@@ -1,16 +1,13 @@
 <div align="center">
 
-# Olá, eu sou o Matheus
-
-###Desenvolvedor Web | Front-end & Back-end
+# Olá, eu sou o Matheus 👋
+### Desenvolvedor Web | Front-end & Back-end
 
 Sou da área de **Tecnologia da Informação** com foco em **desenvolvimento web**, criando aplicações modernas de ponta a ponta — do front-end ao back-end. Gosto de transformar ideias em produtos funcionais, com código limpo e boas práticas de mercado.
 
 Busco evoluir continuamente como desenvolvedor, construindo projetos bem estruturados, escaláveis e com foco em usabilidade.
 
-
 </div>
-
 ---
 
 ## Sobre mim
