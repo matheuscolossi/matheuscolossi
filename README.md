@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Matheus
 
-### Desenvolvedor em evolução | Tecnologia da Informação | Web Development
+### Web Development
 
 Sou profissional da área de **Tecnologia da Informação**, com foco em desenvolvimento de software, programação e construção de soluções web modernas. Tenho interesse em **front-end, back-end, APIs, bancos de dados** e no uso da tecnologia para resolver problemas reais.
 
