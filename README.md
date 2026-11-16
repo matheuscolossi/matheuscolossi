@@ -6,7 +6,6 @@
 Sou da área de **Tecnologia da Informação e Inteligência Artificial** 
 
 </div>
----
 
 ## Sobre mim
 
