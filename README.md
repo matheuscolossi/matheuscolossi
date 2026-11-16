@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou o Matheus Colossi
-### Desenvolvedor Web | Help desk support | Artificial intelligence
+### Web Developer | Help desk support | Artificial Intelligence
 
 Sou da área de **Tecnologia da Informação e Inteligência Artificial** 
 
@@ -18,7 +18,6 @@ Sou da área de **Tecnologia da Informação e Inteligência Artificial**
 - Também tenho interesse em **finanças, investimentos, mercado de ações e criptomoedas**
 - Meu objetivo é crescer como desenvolvedor e construir soluções úteis, escaláveis e profissionais
 
----
 
 ## Tecnologias e ferramentas
 
@@ -37,7 +36,6 @@ Sou da área de **Tecnologia da Informação e Inteligência Artificial**
 
 </div>
 
----
 
 ## Áreas de interesse
 
