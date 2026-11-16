@@ -3,9 +3,7 @@
 # Olá, eu sou o Matheus 👋
 ### Desenvolvedor Web | Front-end & Back-end
 
-Sou da área de **Tecnologia da Informação** com foco em **desenvolvimento web**, criando aplicações modernas de ponta a ponta — do front-end ao back-end. Gosto de transformar ideias em produtos funcionais, com código limpo e boas práticas de mercado.
-
-Busco evoluir continuamente como desenvolvedor, construindo projetos bem estruturados, escaláveis e com foco em usabilidade.
+Sou da área de **Tecnologia da Informação e Inteligência Artificial** 
 
 </div>
 ---
@@ -13,7 +11,9 @@ Busco evoluir continuamente como desenvolvedor, construindo projetos bem estrutu
 ## Sobre mim
 
 - Atuo na área de **Tecnologia da Informação**
+- Suporte Help desk
 - Estudo e pratico desenvolvimento **front-end e back-end**
+- Profissional em **Inteligências Artificiais**
 - Tenho interesse em **APIs REST, banco de dados, sistemas web e arquitetura de software**
 - Busco criar projetos com código organizado, boas práticas e foco em usabilidade
 - Também tenho interesse em **finanças, investimentos, mercado de ações e criptomoedas**
@@ -47,4 +47,6 @@ Desenvolvimento Web       APIs REST
 Front-end                 Back-end
 Banco de Dados            PostgreSQL
 Automação                 Sistemas Web
+IA                        Claude e GPT
+Suporte                   Help Desk
 Finanças                  Criptomoedas
