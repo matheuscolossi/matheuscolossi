@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou o Matheus Colossi
-### Desenvolvedor Web | Front-end & Back-end
+### Desenvolvedor Web | Help desk support | Artificial intelligence
 
 Sou da área de **Tecnologia da Informação e Inteligência Artificial** 
 
