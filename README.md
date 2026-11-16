@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Matheus 👋
+# Olá, eu sou o Matheus Colossi
 ### Desenvolvedor Web | Front-end & Back-end
 
 Sou da área de **Tecnologia da Informação e Inteligência Artificial** 
